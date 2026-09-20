@@ -1,0 +1,17 @@
+# Entorno virtual
+venv/
+Biblioteca/
+.venv/
+
+# Base de datos
+*.db
+
+# Claves y archivos secretos
+.env
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Configuración de VS Code
+.vscode/
